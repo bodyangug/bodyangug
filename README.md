@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
-• Software Engineer at Epam with 3+ year of experience in developying solutions.
+• Software Engineer at Epam with 3+ year of experience in developing solutions.
 
 ## 📊 GitHub Stats 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodyangug&theme=tokyonight&layout=compact"></p><br/>
